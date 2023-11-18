@@ -1,4 +1,4 @@
-### Hi there 👋 my name is Lexy
+### Hi there 👋 my name is Alexandra
 
 <!--
 **lexydotcom/lexydotcom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
